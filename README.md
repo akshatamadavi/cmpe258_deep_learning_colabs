@@ -4,14 +4,18 @@
 
 ## Demo Videos -
 
-1. Metrics for classification - fundamentals -
+1. Metrics for classification - fundamentals - https://youtu.be/FLrfbDmV4c0
 
 2. Hyperparameter tuning for deep learning -
+   
+   Notebook - https://colab.research.google.com/drive/1MVBCock6PjlOyntAv67_MRpZrqKaghu-?usp=sharing
+   
+   Demo - https://youtu.be/FLrfbDmV4c0
 
-3. Optimizers for deep learning -
+4. Optimizers for deep learning - https://youtu.be/FLrfbDmV4c0
 
-4. Activation functions for deep learning -
+5. Activation functions for deep learning - https://youtu.be/FLrfbDmV4c0
 
-5. Convolution Neural Networks -
+6. Convolution Neural Networks - https://youtu.be/FLrfbDmV4c0
 
-6. Modern CNN architectures and Transfer Learning (Go high level only) -
+7. Modern CNN architectures and Transfer Learning (Go high level only) - https://youtu.be/FLrfbDmV4c0
