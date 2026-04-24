@@ -12,7 +12,7 @@
    
    Demo - [https://youtu.be/FLrfbDmV4c0](https://youtu.be/0x0efri7yh0)
 
-4. Optimizers for deep learning - https://youtu.be/FLrfbDmV4c0
+4. Optimizers for deep learning - [https://youtu.be/FLrfbDmV4c0](https://youtu.be/d77__gzxjt0)
 
 5. Activation functions for deep learning - https://youtu.be/FLrfbDmV4c0
 
